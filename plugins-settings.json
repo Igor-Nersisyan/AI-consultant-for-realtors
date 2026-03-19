@@ -1,0 +1,88 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "c0c6dc52-11d3-480a-990e-ff5d72b9fd1e",
+        "name": "REST API",
+        "designId": "07f7b9b8-2431-4669-a0dd-43e13e37c072",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "a338b0ae-249d-4456-ae93-aaf3e005a615",
+        "name": "Supabase",
+        "designId": "07f7b9b8-2431-4669-a0dd-43e13e37c072",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+            "projectUrl": "https://supabase.neurozhuk.com/",
+            "customDomain": "",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                }
+            },
+            "realtimeTables": {
+                "real_properties": false
+            }
+        }
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "e7ae729f-b043-4e9c-a524-e2c920077dfa",
+        "name": "Supabase Auth",
+        "designId": "07f7b9b8-2431-4669-a0dd-43e13e37c072",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+            "roleType": "string",
+            "projectUrl": "https://supabase.neurozhuk.com/",
+            "customDomain": "",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzY1Nzk5MzExLCJleHAiOjIwODExNTkzMTF9.tWOV-9_L8L5mLHjxkjXYLhyaPdvzfdRNYMM4Jiwu_3o",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.neurozhuk.com/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.neurozhuk.com/"
+                }
+            },
+            "afterNotSignInPageId": "a7f0f601-ccfc-46dd-8d60-a6a182ad84fd"
+        }
+    }
+}

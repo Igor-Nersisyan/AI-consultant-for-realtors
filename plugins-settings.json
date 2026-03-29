@@ -1,0 +1,80 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "120cd618-2ba8-46de-bfc3-01d5b5b3a8c2",
+        "name": "REST API",
+        "designId": "074f3e4b-4cb1-4d6e-bb5e-c6e598c48a34",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "e956f220-7dc6-45f6-a469-2cb3ada1da41",
+        "name": "Supabase",
+        "designId": "074f3e4b-4cb1-4d6e-bb5e-c6e598c48a34",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+            "projectUrl": "https://supabase.terra-ai.ru/",
+            "customDomain": "",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                }
+            },
+            "realtimeTables": {}
+        }
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "66732654-f565-413c-b3a0-dce772f132e5",
+        "name": "Supabase Auth",
+        "designId": "074f3e4b-4cb1-4d6e-bb5e-c6e598c48a34",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+            "projectUrl": "https://supabase.terra-ai.ru/",
+            "customDomain": "",
+            "environments": {
+                "editor": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                },
+                "staging": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                },
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzYyOTQyMTE0LCJleHAiOjIwNzgzMDIxMTR9.5u3WUduo9JLjlSgIJ2ps9neyt_cQrzqMWM4R0MLiIwY",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://supabase.terra-ai.ru/",
+                    "customDomain": "",
+                    "baseProjectRef": "supabase.terra-ai.ru/"
+                }
+            }
+        }
+    }
+}
